@@ -1,7 +1,7 @@
 # 👋 Pedro Rocha de Oliveira
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=F30CF3&size=24&center=true&vCenter=true&height=40&lines=Hi%2C+I%27m+Pedro+%3AD;Statistics+student+%26+programming+learner;I+really+enjoy+building+things+with+code;Data%2C+computers+and+AI+are+my+thing;Building+useful+solutions+with+data" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=F30CF3&size=24&center=true&vCenter=true&width=700&height=40&lines=Hi%2C+I%27m+Pedro+%3AD;Statistics+student+%26+programming+learner;I+really+enjoy+building+things+with+code;Data%2C+computers+and+AI+are+my+thing;Building+useful+solutions+with+data" />
 </p>
 
 ### Statistics Student | Data Analysis | Generative AI & LLMs | Predictive Modeling
