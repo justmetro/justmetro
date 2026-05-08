@@ -1,7 +1,10 @@
 # 👋 Pedro Rocha de Oliveira
 
-### Statistics Student | Data Analysis | Generative AI & LLMs | Predictive Modeling
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=F30CF3&size=24&center=true&vCenter=true&height=40&lines=Hi%2C+I%27m+Pedro+%3AD;Statistics+student+%26+programming+learner;I+really+enjoy+building+things+with+code;Data%2C+computers+and+AI+are+my+thing;Building+useful+solutions+with+data" />
+</p>
 
+### Statistics Student | Data Analysis | Generative AI & LLMs | Predictive Modeling
 I'm a Statistics undergraduate student at **ENCE/IBGE**, focused on **Data Analysis, Exploratory Data Analysis, Predictive Modeling, Data Visualization, and Generative AI applications**.
 
 I work with **Python, R, SQL, Streamlit, LangChain, ChromaDB, LLMs, and RAG pipelines**, building projects that transform data into practical insights and useful tools.
