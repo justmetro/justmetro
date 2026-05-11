@@ -1,17 +1,34 @@
 # 👋 Pedro Rocha de Oliveira
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=F30CF3&size=24&center=true&vCenter=true&width=700&height=40&lines=Hi%2C+I%27m+Pedro+%3AD;Statistics+student+%26+programming+learner;I+really+enjoy+building+things+with+code;Data%2C+computers+and+AI+are+my+thing;Building+useful+solutions+with+data" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=F30CF3&size=24&center=true&vCenter=true&width=700&height=40&lines=Hi%2C+I%27m+Pedro+%3AD;Statistics+student+%26+programming+learner;Data+Analysis+%7C+Predictive+Modeling+%7C+AI;Building+useful+solutions+with+data;Turning+data+into+practical+tools" />
 </p>
 
-### Statistics Student | Data Analysis | Generative AI & LLMs | Predictive Modeling
-I'm a Statistics undergraduate student at **ENCE/IBGE**, focused on **Data Analysis, Exploratory Data Analysis, Predictive Modeling, Data Visualization, and Generative AI applications**.
+### Statistics Student | Data Analysis | Predictive Modeling | Generative AI & LLMs
 
-I work with **Python, R, SQL, Streamlit, LangChain, ChromaDB, LLMs, and RAG pipelines**, building projects that transform data into practical insights and useful tools.
+I'm a Statistics undergraduate student at **ENCE/IBGE**, focused on **Data Analysis, Exploratory Data Analysis, Predictive Modeling, Data Visualization, Machine Learning, and Generative AI applications**.
+
+I build projects using **Python, R, SQL, FastAPI, Streamlit, LangChain, ChromaDB, LLMs, RAG pipelines, automated tests, and CI/CD workflows**, combining statistical thinking with practical software development.
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
+
+### 📊 [Rendimento Predictor API](https://github.com/justmetro/rendimento-predictor-api)
+
+REST API for income prediction and statistical analysis using socioeconomic data, machine learning concepts, automated validation, tests, and continuous integration.
+
+**Main features:**
+
+- API built with **FastAPI**
+- Predictive modeling workflow with Python
+- Input validation with schemas
+- Automated tests with **Pytest**
+- CI/CD pipeline with **GitHub Actions**
+- Organized backend structure with routes, schemas, security and prediction logic
+- Practical project focused on data, APIs and model deployment concepts
+
+---
 
 ### 🔎 [IBGE RAG Chatbot](https://github.com/justmetro/ibge-rag-chatbot)
 
@@ -20,12 +37,18 @@ Semantic search application for public IBGE datasets using **RAG, Gemini API, Ch
 **Main features:**
 
 - Semantic search over IBGE XLS/CSV tables
-- Local embeddings and vector storage with ChromaDB
-- Gemini API integration with fallback demo mode
-- Dark mode interface with Streamlit
-- Simple retriever evaluation with 5/5 successful tests
+- Local embeddings and vector storage with **ChromaDB**
+- **Gemini API** integration with fallback demo mode
+- Dark mode interface with **Streamlit**
+- Query expansion to improve retrieval
+- Metadata filtering for indicators and coefficients of variation
+- Retriever evaluation with Precision@k, Recall proxy, MRR and NDCG
+- Automated tests with **Pytest**
+- CI/CD with **GitHub Actions**
 
 ---
+
+## 📚 Academic & Statistical Projects
 
 ### 📊 Technical Report: Drug Experimentation — ENCE/IBGE
 
@@ -33,15 +56,15 @@ Statistical analysis project focused on social data, correlations, data visualiz
 
 ---
 
-### 🐍 Python Scripts and Automations
+### 🏛️ Academic Projects — Statistics in Public Policy
 
-Personal scripts and small applications built with **Python, Pandas, NumPy, Matplotlib, Object-Oriented Programming, and automation workflows**.
+Academic studies applying statistics to public policy problems, social indicators, data visualization, and IBGE microdata analysis.
 
 ---
 
-### 🏛️ Academic Projects — Statistics in Public Policy
+### 🐍 Python Scripts and Automations
 
-Academic studies applying statistics to public policy problems, social indicators, and IBGE microdata analysis.
+Personal scripts and small applications built with **Python, Pandas, NumPy, Matplotlib, Object-Oriented Programming, and automation workflows**.
 
 ---
 
@@ -55,32 +78,42 @@ Academic studies applying statistics to public policy problems, social indicator
 ![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-111111?style=for-the-badge&logo=scikitlearn)
+
+### APIs, Machine Learning & Back-End
+
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi)
+![Pytest](https://img.shields.io/badge/Pytest-111111?style=for-the-badge&logo=pytest)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-111111?style=for-the-badge)
+![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-111111?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
 
 ### Generative AI & LLMs
 
 ![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-111111?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-111111?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini_API-111111?style=for-the-badge&logo=google)
+![Gemini API](https://img.shields.io/badge/Gemini_API-111111?style=for-the-badge&logo=google)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-111111?style=for-the-badge)
 
 ### Tools & Development
 
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions)
 ![Streamlit](https://img.shields.io/badge/Streamlit-111111?style=for-the-badge&logo=streamlit)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
-![Excel](https://img.shields.io/badge/Excel-111111?style=for-the-badge&logo=microsoft-excel)
+![Excel](https://img.shields.io/badge/Excel-111111?style=for-the-badge&logo=microsoftexcel)
 
 ---
 
-## 🎯 Currently Learning
+## 🎯 Currently Improving
 
 - Advanced statistical modeling
 - Machine learning with Python and R
+- API development and backend architecture
 - RAG pipelines and LLM applications
 - Data engineering fundamentals
-- Back-End development with JavaScript and SQL
+- Testing, documentation and CI/CD practices
 
 ---
 
@@ -108,9 +141,21 @@ UNESA
 
 ## 📈 GitHub Statistics
 
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justmetro&show_icons=true&theme=radical)
+<p align="center">
+  <img 
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=justmetro&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600"
+    alt="Pedro's GitHub Stats"
+  />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justmetro&layout=compact&theme=radical)
+<p align="center">
+  <img 
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=justmetro&layout=compact&theme=radical&hide_border=true&cache_seconds=21600"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
@@ -118,7 +163,7 @@ UNESA
 
 - 📧 Email: **oliveiraggpedro@gmail.com**
 - 💼 LinkedIn: **[LinkedIn/pedro](https://www.linkedin.com/in/pedro-oliveira-34171522a/)**
-- 🧑‍💻 GitHub: [github.com/justmetro](https://github.com/justmetro)
+- 🧑‍💻 GitHub: **[github.com/justmetro](https://github.com/justmetro)**
 
 ---
 
