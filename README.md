@@ -72,37 +72,37 @@ Personal scripts and small applications built with **Python, Pandas, NumPy, Matp
 
 ### Data Analysis & Statistics
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![R](https://img.shields.io/badge/R-111111?style=for-the-badge&logo=r)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql)
-![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-111111?style=for-the-badge&logo=scikitlearn)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
+![R](https://img.shields.io/badge/R-111111?style=for-the-badge&logo=r&logoColor=276DC3)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=013243)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 
 ### APIs, Machine Learning & Back-End
 
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi)
-![Pytest](https://img.shields.io/badge/Pytest-111111?style=for-the-badge&logo=pytest)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Pytest](https://img.shields.io/badge/Pytest-111111?style=for-the-badge&logo=pytest&logoColor=0A9EDC)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-111111?style=for-the-badge)
 ![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-111111?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Generative AI & LLMs
 
-![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-111111?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-111111?style=for-the-badge)
-![Gemini API](https://img.shields.io/badge/Gemini_API-111111?style=for-the-badge&logo=google)
+![Gemini API](https://img.shields.io/badge/Gemini_API-111111?style=for-the-badge&logo=google&logoColor=4285F4)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-111111?style=for-the-badge)
 
 ### Tools & Development
 
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions)
-![Streamlit](https://img.shields.io/badge/Streamlit-111111?style=for-the-badge&logo=streamlit)
-![Excel](https://img.shields.io/badge/Excel-111111?style=for-the-badge&logo=microsoftexcel)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Streamlit](https://img.shields.io/badge/Streamlit-111111?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
+![Excel](https://img.shields.io/badge/Excel-111111?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
 
 ---
 
@@ -136,26 +136,6 @@ UNESA
 - Introduction to Data Science — ENEP  
 - Concepts and Applications of the Demographic Census in Public Policy — IBGE  
 - Plain Language Fundamentals — ENEP  
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img 
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=justmetro&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600"
-    alt="Pedro's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img 
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=justmetro&layout=compact&theme=radical&hide_border=true&cache_seconds=21600"
-    alt="Top Languages"
-  />
-</p>
 
 ---
 
